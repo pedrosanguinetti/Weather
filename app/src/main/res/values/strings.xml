@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MyWeather</string>
+    <string name="weather_icon">Weather icon</string>
+    <string name="the_api_might_be_limiting_the_size_of_the_forecast_n_currently_requesting_10_items">The API might be limiting the size of the forecast. \n Currently requesting 10 items.</string>
+</resources>
